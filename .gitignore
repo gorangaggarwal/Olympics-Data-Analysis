@@ -1,0 +1,31 @@
+# Ignore IDE-specific files
+.idea/
+.ipynb_checkpoints/
+
+# Ignore virtual environment
+.venv/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore data files
+*.pptx
+
+# Ignore Jupyter Notebook checkpoints
+*.ipynb_checkpoints
+
+# Ignore large documents and reports
+*.pdf
+*.docx
+
+# Ignore image files
+*.png
+
+# Ignore temporary or backup files
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
